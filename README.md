@@ -2,4 +2,4 @@
 
 test repo in lecture 4 comp
 
-Hola profe, agregue unas lineas
+Hola profe, cambie algo
